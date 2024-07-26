@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "344167277598",
+    "firebase_url": "https://lojavirtual-6be89-default-rtdb.firebaseio.com",
+    "project_id": "lojavirtual-6be89",
+    "storage_bucket": "lojavirtual-6be89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344167277598:android:3a035e594c26b09bdffa0f",
+        "android_client_info": {
+          "package_name": "br.com.luiscla.lojavirtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344167277598-2rpqvc9hcvgv2c6rtf6e1ss7nggf60p2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUunnCZdmeiGaxeAicDDcz04P_ha4-1oc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344167277598-2rpqvc9hcvgv2c6rtf6e1ss7nggf60p2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
